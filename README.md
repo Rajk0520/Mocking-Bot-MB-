@@ -7,4 +7,4 @@ To a given audio file apply audio processing. Extract the notes, onset, instrume
 # Videos Links :
 • Progress Task : \
 • Final Original Configuration : \
-• Final Bonus Configuration : \
+• Final Bonus Configuration : 
