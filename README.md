@@ -5,6 +5,4 @@ To a given audio file apply audio processing. Extract the notes, onset, instrume
  
  • Raj Kumar Bhagat [https://github.com/Rajk0520]
 # Videos Links :
-• Progress Task : \
-• Final Original Configuration : \
-• Final Bonus Configuration : 
+• Final Original Configuration : [https://youtu.be/scbUX3qAjQ8]
